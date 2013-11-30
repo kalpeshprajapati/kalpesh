@@ -1,0 +1,95 @@
+.account-create .page-title {
+    border: 0;
+    margin: 0 0 25px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.account-create .page-title h1 {
+    color: #0A263C;
+    font-size: 20px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.account-create .fieldset {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border:0;
+    margin:0;
+    padding:0;
+}
+.account-create h2.title {
+    background: none repeat scroll 0 0 #0A263C;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+.account-create .field {
+    float: left;
+    width: 100% !important;
+}
+
+.account-create .form-list input.input-text {
+    margin-bottom: 5px;
+      height: 20px;
+}
+.account-create input.input-text:focus, .account-create select:focus, .account-create textarea:focus {
+    background-color: #fff;
+    border-color: #8AA6BC;
+    box-shadow: 0 0 4px #D4D4D4;
+}
+.account-create button.button span {
+    background: none repeat scroll 0 0 #41B1E9;
+    border: 0;
+    color: #FFFFFF;
+    display: block;
+    font: bold 12px/19px Arial,Helvetica,sans-serif;
+    height: 19px;
+    padding: 5px 15px;
+    text-align: center;
+    white-space: nowrap;
+}
+.account-create button.button span span {
+    border: 0 none;
+    padding: 0;
+}
+.account-create .buttons-set {
+    border: 0 none;
+    margin: 0;
+}
+ .content {
+    border: 1px solid #7A96AC;
+    padding: 20px;
+    background: #fff;
+    border-top: 0;
+}
+
+.account-create p.required {
+    color: #EB340A;
+    font-size: 11px;
+    text-align: left;
+}
+.account-create .buttons-set button.button {
+    float: left;
+    margin: 0px;
+}
+.account-create .buttons-set .back-link {
+    float: right;
+    margin: 5px 0 0;
+    text-decoration: none;
+}
+
+a.add-login {
+    background: none repeat scroll 0 0 #41B1E9;
+    color: #FFFFFF;
+    float: right;
+    font-weight: bold;
+    margin: -25px 0 5px;
+    padding: 3px 8px;
+    text-decoration: none;
+ 
+}
